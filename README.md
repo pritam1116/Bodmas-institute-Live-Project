@@ -1,0 +1,2 @@
+# Bodmas-institute-Live-Project
+Bodmas institute is a web based learning and class room based institute that helps the students to take the learning in incremental steps by providing the latest available content on the subjects. At it's most basic level, it is an online course with a series of online resources to help students understand and prepare for their interested subjects. Essentially, Bodmas institute is the realization of the concept of flexible learning, by giving the user time, resources and scope to learn at his own interest and potential.
