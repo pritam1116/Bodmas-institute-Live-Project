@@ -1,0 +1,13 @@
+<!DOCTYPE xml> 
+<Context>
+	
+	<Resource name="jdbc/bodmas_app"
+			  auth="Container" type="javax.sql.DataSource"
+			  maxActive="20" maxIdle="5" maxWait="10000"
+			  username="SYSTEM" password="Rahul007" 
+			  driverClassName="oracle.jdbc.driver.OracleDriver"
+			  url="jdbc:oracle:thin:@localhost:1521:orcl" />
+    		  
+			  
+</Context>
+

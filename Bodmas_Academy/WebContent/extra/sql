@@ -1,0 +1,2 @@
+select * from bodmas;
+insert into bodmas values ('Munna','Boss','Munna786','Munna@786','Munna@786','munna@bodmass.com',to_date('15/08/1945','dd/mm/yyyy'),'9965664553','katwaniya k piche');
